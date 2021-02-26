@@ -10,8 +10,7 @@ public class Main {
 		w = sc.nextInt();
 		b = sc.nextInt();
 		d = sc.nextFloat();
-		
-		a = sc.nextInt();
+	
 		s = sc.nextInt();
 		x = sc.nextFloat();
 
